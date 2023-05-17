@@ -16,7 +16,7 @@ A fundamental dbt project is built that transforms raw data from the app databas
     Clone this repository.
     Change into the jaffle_shop directory from the command line:
     $ cd jaffle_shop
-    Create an account any data platform (snowflake / big-query / local postgres database)
+    Create an account in any of the data platforms (snowflake / big-query / local postgres database)
     Connect the dbt profile to the data warehouse (Snowflake in this scenario)
     Run the source_load.sql file to load data to the data warehouse (mock-up)
     Use the following commands to run the project in CLI :
